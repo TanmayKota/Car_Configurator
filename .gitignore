@@ -72,3 +72,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Assets/GLTF/Challenger_out
+/Assets/GLTF/Studio_Scene_01_out
+/Assets/GLTF/uploads_files_3053331_Mercedes+C63-AMG-ReadyV2_out
+/Assets/GLTF/Wheels/wheel2.glb
